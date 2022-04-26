@@ -6,3 +6,5 @@ server/public/bundle.js.map
 server/public/style.min.css
 server/public/style.min.css.map
 .env
+redis-6.0.9
+redis-6.0.9.tar.gz
